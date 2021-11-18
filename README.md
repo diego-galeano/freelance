@@ -1,3 +1,3 @@
 # freelance
-Pagina web personal
+Pagina web personal/
 Personal website
